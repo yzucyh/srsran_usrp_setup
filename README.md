@@ -2,7 +2,8 @@
 Use in Open5gs + srsran in 5G Standalone
 
 Device & RAN version
-USRP B210
+
+USRP B210    
 srsran 22.04
 
 Revise etc/open5gs/yaml
